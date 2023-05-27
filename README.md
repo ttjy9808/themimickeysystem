@@ -1,1 +1,1 @@
-# themimickeysystem
+_G.Key = "GAY"
